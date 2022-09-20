@@ -12,4 +12,23 @@ Los 10 puntos comerciales son de libre selección, pero si deben ser centro o pl
 Las 4 bogegas estarán en cualquier punto de la ciudad, seleccionado por usted para el modelo.
 Puede apoyarse en Google Maps (https://www.google.com/maps) y GeoMedellin (https://www.medellin.gov.co/geomedellin/index.hyg) para generar y extraer datos
 La estructura de datos es libre
-La ecuación de costos es libre  
+La ecuación de costos es libre
+
+# Desarrollo de la solucion
+## Centros comerciales seleccionados
+1. Arkadia
+2. El tesoro
+3. Viva Envigado
+4. Monterrey
+5. Los Molinos
+6. Oviedo
+7. Viva Laureles
+8. Santafe
+9. Premium Plaza
+10. Plaza Fabricato
+
+## Ubicacion de las bodegas
+1. Belen trinidad (Barrio Antioquia)
+2. Guayabal
+3. Campo Amor
+4. Belen Granada
