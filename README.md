@@ -32,3 +32,6 @@ La ecuación de costos es libre
 2. Guayabal
 3. Campo Amor
 4. Belen Granada
+
+### Grafico de distanicas desde Belen trinidad (w representa km)
+![Belen](/graficoTrinidad.drawio.png)
