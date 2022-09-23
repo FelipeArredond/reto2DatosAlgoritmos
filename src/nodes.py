@@ -4,11 +4,26 @@ campo_amor = {}
 granada = {}
 
 trinidad['posicion'] = [6.22451,-75.58530]
-trinidad['arkadia'] = 3.3
-trinidad['tesoro'] = 7.2
-trinidad['viva_env'] = 7.1
-trinidad['monterrey'] = 2.9
-trinidad['molinos'] = 3.4
+trinidad['arkadia'] = {
+    'distanciaBodega': 3.3,
+    'conexiones': ['tesoro','viva_env','monterrey','oviedo','viva_laur','santafe','premium_plaza','plaza_fabricato','molinos']
+    }
+trinidad['tesoro'] = {
+    'distanciaBodega': 7.2,
+    'conexiones': ['arkadia','viva_env','monterrey','oviedo','viva_laur','santafe','premium_plaza','plaza_fabricato','molinos']
+    }
+trinidad['viva_env'] = {
+    'distanciaBodega': 7.1,
+    'conexiones': ['tesoro','arkadia','monterrey','oviedo','viva_laur','santafe','premium_plaza','plaza_fabricato','molinos']
+    }
+trinidad['monterrey'] = {
+    'distanciaBodega': 2.9,
+    'conexiones': ['tesoro','viva_env','arkadia','oviedo','viva_laur','santafe','premium_plaza','plaza_fabricato','molinos']
+    }
+trinidad['molinos'] = {
+    'distanciaBodega': 3.4,
+    'conexiones': ['tesoro','viva_env','monterrey','oviedo','viva_laur','santafe','premium_plaza','plaza_fabricato']
+    }
 trinidad['oviedo'] = 4.5
 trinidad['viva_laur'] = 4.5
 trinidad['santafe'] = 6.0

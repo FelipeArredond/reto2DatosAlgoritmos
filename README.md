@@ -14,6 +14,10 @@ Puede apoyarse en Google Maps (https://www.google.com/maps) y GeoMedellin (https
 La estructura de datos es libre
 La ecuación de costos es libre
 
+### Recursos
+
+ Circuito Hamiltoniano con Python:  <https://www.techiedelight.com/es/print-all-hamiltonian-path-present-in-a-graph/>
+
 # Desarrollo de la solucion
 ## Centros comerciales seleccionados
 1. Arkadia
